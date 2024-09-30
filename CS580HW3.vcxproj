@@ -165,6 +165,7 @@
     <ClInclude Include="ScaleDlg.h" />
     <ClInclude Include="StdAfx.h" />
     <ClInclude Include="TranslateDlg.h" />
+    <ClInclude Include="Vector3.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\CS580HW.ico" />
